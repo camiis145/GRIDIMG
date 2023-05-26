@@ -1,0 +1,13 @@
+.titulo{
+    color: rgb(219, 76, 100);
+    text-align: center;
+    font-style: italic;
+}
+.imagem{
+    width: 300px !important;
+    height: 200px !important;
+}
+.DivTodasimagens{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
